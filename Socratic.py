@@ -260,7 +260,7 @@ def main():
             st.sidebar.error("Invalid username or password.")
             st.stop()
 
-    st.title("📚 Gamified Learning Management System (LME)")
+    st.title("📚 Gamified Learning Management System (LMS)")
 
     # Initialize Groq client
     client_groq = initialize_groq_client(GROQ_API_KEY)
