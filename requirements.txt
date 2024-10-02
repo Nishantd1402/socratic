@@ -211,8 +211,6 @@ pydub==0.25.1
 Pygments==2.17.2
 pyinstaller==6.8.0
 pyinstaller-hooks-contrib==2024.7
-PyJWT==2.9.0
-pymongo==4.9.1
 PyMuPDF==1.24.7
 PyMuPDFb==1.24.6
 pynndescent==0.5.12
@@ -226,12 +224,6 @@ pytesseract==0.3.10
 python-dateutil==2.8.2
 python-json-logger==2.0.7
 pytz==2023.3.post1
-pywin32==306
-pywin32-ctypes==0.2.2
-pywinpty==2.0.12
-pyxnat==1.6.2
-PyYAML==6.0.1
-pyzmq==25.1.2
 qtconsole==5.5.1
 QtPy==2.4.1
 rdflib==6.3.2
